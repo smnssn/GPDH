@@ -19,7 +19,7 @@ If you use this code, please cite:
 
   ```
   @INPROCEEDINGS{9304284,
-  author={J. {Simonson} and K. T. {Atta} and W. {Birk}},
+  author={J. {Simonsson} and K. T. {Atta} and W. {Birk}},
   title={Probabilistic Modeling of Thermal Grids using Gaussian Processes}, 
   booktitle={2020 59th IEEE Conference on Decision and Control (CDC)}, 
   year={2020},
